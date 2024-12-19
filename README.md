@@ -71,6 +71,9 @@ Contains details about sales representatives and their respective regions.
    3. Create a **Line Chart** to display trends for Sales and Profit.
    4. Apply slicers to filter by category, market, or region dynamically.
 
+![image](https://github.com/user-attachments/assets/9651ba55-f8c0-4410-b0f3-78a10c09b91e)
+
+
 ---
 
 ### 3. **Category-Wise Profit**
@@ -81,6 +84,9 @@ Contains details about sales representatives and their respective regions.
    2. Sort the table in descending order of Profit.
    3. Create a **Bar Chart** to visualize category-wise profit.
    4. Add slicers for interactivity (e.g., by region or year).
+
+![image](https://github.com/user-attachments/assets/e61cd74c-9983-4dd1-91a2-92b9aa349f0e)
+
 
 ---
 
@@ -93,6 +99,8 @@ Contains details about sales representatives and their respective regions.
    3. Create a **Pie Chart** or **Donut Chart** to display the sales share.
    4. Add labels to show percentage values dynamically.
 
+![image](https://github.com/user-attachments/assets/b73031c9-8f81-4bcc-903c-270977d7891a)
+
 ---
 
 ### 5. **Sales by Country**
@@ -103,6 +111,8 @@ Contains details about sales representatives and their respective regions.
    2. Sort the table in descending order of Sales.
    3. Use conditional formatting or a **Heatmap** to highlight top-performing countries.
    4. Alternatively, use a **Geographic Map Chart** to visualize sales geographically.
+
+![image](https://github.com/user-attachments/assets/4cea0d13-3152-4690-8002-3ff01ee90290)
 
 ---
 
@@ -115,6 +125,8 @@ Contains details about sales representatives and their respective regions.
    3. Filter to display the top 5 Sub-Categories.
    4. Use a **Column Chart** to visualize results.
 
+![image](https://github.com/user-attachments/assets/547847e7-fdc7-419c-b14a-45991538c997)
+
 ---
 
 ### 7. **Bottom 5 Subcategories**
@@ -124,6 +136,8 @@ Contains details about sales representatives and their respective regions.
    1. Use the same **Pivot Table** as above but sort in ascending order of Sales.
    2. Filter to display the bottom 5 Sub-Categories.
    3. Use a **Column Chart** with contrasting colors to emphasize low-performing categories.
+
+![image](https://github.com/user-attachments/assets/0ab7f7f8-bc6f-4185-8071-602c9e8ce10c)
 
 ---
 
@@ -135,6 +149,9 @@ Contains details about sales representatives and their respective regions.
    2. Add `Sales` as values.
    3. Create a **Line Chart** to show the trend.
    4. Use slicers to filter by category, region, or segment.
+
+
+![image](https://github.com/user-attachments/assets/18ea9f1d-9643-40e9-8514-f16982b781cb)
 
 ---
 
@@ -167,3 +184,6 @@ This dashboard empowers retail businesses to:
 This repository includes:
 - Visual examples for each solved problem statement.
 - Snapshots of the final dashboard with all components.
+
+![image](https://github.com/user-attachments/assets/76c278f7-54bb-4628-a427-41ca3a1cd5a0)
+
